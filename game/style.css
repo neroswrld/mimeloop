@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+    padding:auto;
+    color:white;
+    font-size: 21px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #000000;
+    background-image: url("assets/background.png") ;
+  }
+
+  canvas{
+    padding-left: 300px;
+  }
